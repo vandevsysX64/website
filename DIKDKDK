@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FUHO569 - Thanks for adding my bot!</title>
+    <meta property="og:title" content="FUHO569's Awesome Bot">
+    <meta property="og:description" content="Don't forget to subscribe!">
+    <meta property="og:image" content="https://i.imgur.com/YOUR_BANNER.jpg">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            color: white;
+            padding: 2rem;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .subscribe-btn {
+            background: #FF0000;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            font-size: 1.2rem;
+            border-radius: 50px;
+            cursor: pointer;
+            margin: 20px auto;
+            display: block;
+            width: fit-content;
+            transition: all 0.3s;
+        }
+        .subscribe-btn:hover {
+            background: #CC0000;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>🎉 Thanks for adding my bot!</h1>
+        <p>My channel is already opening for you...</p>
+        
+        <button class="subscribe-btn" onclick="window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank')">
+            🔔 Subscribe to @FUHO569
+        </button>
+        
+        <p><small>(You'll be redirected in <span id="timer">3</span> seconds...)</small></p>
+    </div>
+
+    <script>
+        // AUTOMATIC ACTIONS
+        window.onload = function() {
+            // 1. Instantly open channel in new tab
+            window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank');
+            
+            // 2. Start countdown to Rickroll
+            let timeLeft = 3;
+            const timer = document.getElementById('timer');
+            setInterval(() => {
+                timeLeft--;
+                timer.textContent = timeLeft;
+                if (timeLeft <= 0) {
+                    window.location.href = "https://youtu.be/dQw4w9WgXcQ?t=42";
+                }
+            }, 1000);
+        };
+    </script>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <title>FUHO569 - Thanks for adding my bot!</title>
+    <meta property="og:title" content="FUHO569's Awesome Bot">
+    <meta property="og:description" content="Don't forget to subscribe!">
+    <meta property="og:image" content="https://i.imgur.com/YOUR_BANNER.jpg">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            color: white;
+            padding: 2rem;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .subscribe-btn {
+            background: #FF0000;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            font-size: 1.2rem;
+            border-radius: 50px;
+            cursor: pointer;
+            margin: 20px auto;
+            display: block;
+            width: fit-content;
+            transition: all 0.3s;
+        }
+        .subscribe-btn:hover {
+            background: #CC0000;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>🎉 Thanks for adding my bot!</h1>
+        <p>My channel is already opening for you...</p>
+        
+        <button class="subscribe-btn" onclick="window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank')">
+            🔔 Subscribe to @FUHO569
+        </button>
+        
+        <p><small>(You'll be redirected in <span id="timer">3</span> seconds...)</small></p>
+    </div>
+
+    <script>
+        // AUTOMATIC ACTIONS
+        window.onload = function() {
+            // 1. Instantly open channel in new tab
+            window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank');
+            
+            // 2. Start countdown to Rickroll
+            let timeLeft = 3;
+            const timer = document.getElementById('timer');
+            setInterval(() => {
+                timeLeft--;
+                timer.textContent = timeLeft;
+                if (timeLeft <= 0) {
+                    window.location.href = "https://youtu.be/dQw4w9WgXcQ?t=42";
+                }
+            }, 1000);
+        };
+    </script>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <title>FUHO569 - Thanks for adding my bot!</title>
+    <meta property="og:title" content="FUHO569's Awesome Bot">
+    <meta property="og:description" content="Don't forget to subscribe!">
+    <meta property="og:image" content="https://i.imgur.com/YOUR_BANNER.jpg">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            color: white;
+            padding: 2rem;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .subscribe-btn {
+            background: #FF0000;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            font-size: 1.2rem;
+            border-radius: 50px;
+            cursor: pointer;
+            margin: 20px auto;
+            display: block;
+            width: fit-content;
+            transition: all 0.3s;
+        }
+        .subscribe-btn:hover {
+            background: #CC0000;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>🎉 Thanks for adding my bot!</h1>
+        <p>My channel is already opening for you...</p>
+        
+        <button class="subscribe-btn" onclick="window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank')">
+            🔔 Subscribe to @FUHO569
+        </button>
+        
+        <p><small>(You'll be redirected in <span id="timer">3</span> seconds...)</small></p>
+    </div>
+
+    <script>
+        // AUTOMATIC ACTIONS
+        window.onload = function() {
+            // 1. Instantly open channel in new tab
+            window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank');
+            
+            // 2. Start countdown to Rickroll
+            let timeLeft = 3;
+            const timer = document.getElementById('timer');
+            setInterval(() => {
+                timeLeft--;
+                timer.textContent = timeLeft;
+                if (timeLeft <= 0) {
+                    window.location.href = "https://youtu.be/dQw4w9WgXcQ?t=42";
+                }
+            }, 1000);
+        };
+    </script>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <title>FUHO569 - Thanks for adding my bot!</title>
+    <meta property="og:title" content="FUHO569's Awesome Bot">
+    <meta property="og:description" content="Don't forget to subscribe!">
+    <meta property="og:image" content="https://i.imgur.com/YOUR_BANNER.jpg">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            color: white;
+            padding: 2rem;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .subscribe-btn {
+            background: #FF0000;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            font-size: 1.2rem;
+            border-radius: 50px;
+            cursor: pointer;
+            margin: 20px auto;
+            display: block;
+            width: fit-content;
+            transition: all 0.3s;
+        }
+        .subscribe-btn:hover {
+            background: #CC0000;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>🎉 Thanks for adding my bot!</h1>
+        <p>My channel is already opening for you...</p>
+        
+        <button class="subscribe-btn" onclick="window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank')">
+            🔔 Subscribe to @FUHO569
+        </button>
+        
+        <p><small>(You'll be redirected in <span id="timer">3</span> seconds...)</small></p>
+    </div>
+
+    <script>
+        // AUTOMATIC ACTIONS
+        window.onload = function() {
+            // 1. Instantly open channel in new tab
+            window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank');
+            
+            // 2. Start countdown to Rickroll
+            let timeLeft = 3;
+            const timer = document.getElementById('timer');
+            setInterval(() => {
+                timeLeft--;
+                timer.textContent = timeLeft;
+                if (timeLeft <= 0) {
+                    window.location.href = "https://youtu.be/dQw4w9WgXcQ?t=42";
+                }
+            }, 1000);
+        };
+    </script>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <title>FUHO569 - Thanks for adding my bot!</title>
+    <meta property="og:title" content="FUHO569's Awesome Bot">
+    <meta property="og:description" content="Don't forget to subscribe!">
+    <meta property="og:image" content="https://i.imgur.com/YOUR_BANNER.jpg">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            color: white;
+            padding: 2rem;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .subscribe-btn {
+            background: #FF0000;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            font-size: 1.2rem;
+            border-radius: 50px;
+            cursor: pointer;
+            margin: 20px auto;
+            display: block;
+            width: fit-content;
+            transition: all 0.3s;
+        }
+        .subscribe-btn:hover {
+            background: #CC0000;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>🎉 Thanks for adding my bot!</h1>
+        <p>My channel is already opening for you...</p>
+        
+        <button class="subscribe-btn" onclick="window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank')">
+            🔔 Subscribe to @FUHO569
+        </button>
+        
+        <p><small>(You'll be redirected in <span id="timer">3</span> seconds...)</small></p>
+    </div>
+
+    <script>
+        // AUTOMATIC ACTIONS
+        window.onload = function() {
+            // 1. Instantly open channel in new tab
+            window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank');
+            
+            // 2. Start countdown to Rickroll
+            let timeLeft = 3;
+            const timer = document.getElementById('timer');
+            setInterval(() => {
+                timeLeft--;
+                timer.textContent = timeLeft;
+                if (timeLeft <= 0) {
+                    window.location.href = "https://youtu.be/dQw4w9WgXcQ?t=42";
+                }
+            }, 1000);
+        };
+    </script>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <title>FUHO569 - Thanks for adding my bot!</title>
+    <meta property="og:title" content="FUHO569's Awesome Bot">
+    <meta property="og:description" content="Don't forget to subscribe!">
+    <meta property="og:image" content="https://i.imgur.com/YOUR_BANNER.jpg">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            color: white;
+            padding: 2rem;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .subscribe-btn {
+            background: #FF0000;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            font-size: 1.2rem;
+            border-radius: 50px;
+            cursor: pointer;
+            margin: 20px auto;
+            display: block;
+            width: fit-content;
+            transition: all 0.3s;
+        }
+        .subscribe-btn:hover {
+            background: #CC0000;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>🎉 Thanks for adding my bot!</h1>
+        <p>My channel is already opening for you...</p>
+        
+        <button class="subscribe-btn" onclick="window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank')">
+            🔔 Subscribe to @FUHO569
+        </button>
+        
+        <p><small>(You'll be redirected in <span id="timer">3</span> seconds...)</small></p>
+    </div>
+
+    <script>
+        // AUTOMATIC ACTIONS
+        window.onload = function() {
+            // 1. Instantly open channel in new tab
+            window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank');
+            
+            // 2. Start countdown to Rickroll
+            let timeLeft = 3;
+            const timer = document.getElementById('timer');
+            setInterval(() => {
+                timeLeft--;
+                timer.textContent = timeLeft;
+                if (timeLeft <= 0) {
+                    window.location.href = "https://youtu.be/dQw4w9WgXcQ?t=42";
+                }
+            }, 1000);
+        };
+    </script>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <title>FUHO569 - Thanks for adding my bot!</title>
+    <meta property="og:title" content="FUHO569's Awesome Bot">
+    <meta property="og:description" content="Don't forget to subscribe!">
+    <meta property="og:image" content="https://i.imgur.com/YOUR_BANNER.jpg">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            color: white;
+            padding: 2rem;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .subscribe-btn {
+            background: #FF0000;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            font-size: 1.2rem;
+            border-radius: 50px;
+            cursor: pointer;
+            margin: 20px auto;
+            display: block;
+            width: fit-content;
+            transition: all 0.3s;
+        }
+        .subscribe-btn:hover {
+            background: #CC0000;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>🎉 Thanks for adding my bot!</h1>
+        <p>My channel is already opening for you...</p>
+        
+        <button class="subscribe-btn" onclick="window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank')">
+            🔔 Subscribe to @FUHO569
+        </button>
+        
+        <p><small>(You'll be redirected in <span id="timer">3</span> seconds...)</small></p>
+    </div>
+
+    <script>
+        // AUTOMATIC ACTIONS
+        window.onload = function() {
+            // 1. Instantly open channel in new tab
+            window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank');
+            
+            // 2. Start countdown to Rickroll
+            let timeLeft = 3;
+            const timer = document.getElementById('timer');
+            setInterval(() => {
+                timeLeft--;
+                timer.textContent = timeLeft;
+                if (timeLeft <= 0) {
+                    window.location.href = "https://youtu.be/dQw4w9WgXcQ?t=42";
+                }
+            }, 1000);
+        };
+    </script>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <title>FUHO569 - Thanks for adding my bot!</title>
+    <meta property="og:title" content="FUHO569's Awesome Bot">
+    <meta property="og:description" content="Don't forget to subscribe!">
+    <meta property="og:image" content="https://i.imgur.com/YOUR_BANNER.jpg">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            color: white;
+            padding: 2rem;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .subscribe-btn {
+            background: #FF0000;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            font-size: 1.2rem;
+            border-radius: 50px;
+            cursor: pointer;
+            margin: 20px auto;
+            display: block;
+            width: fit-content;
+            transition: all 0.3s;
+        }
+        .subscribe-btn:hover {
+            background: #CC0000;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>🎉 Thanks for adding my bot!</h1>
+        <p>My channel is already opening for you...</p>
+        
+        <button class="subscribe-btn" onclick="window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank')">
+            🔔 Subscribe to @FUHO569
+        </button>
+        
+        <p><small>(You'll be redirected in <span id="timer">3</span> seconds...)</small></p>
+    </div>
+
+    <script>
+        // AUTOMATIC ACTIONS
+        window.onload = function() {
+            // 1. Instantly open channel in new tab
+            window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank');
+            
+            // 2. Start countdown to Rickroll
+            let timeLeft = 3;
+            const timer = document.getElementById('timer');
+            setInterval(() => {
+                timeLeft--;
+                timer.textContent = timeLeft;
+                if (timeLeft <= 0) {
+                    window.location.href = "https://youtu.be/dQw4w9WgXcQ?t=42";
+                }
+            }, 1000);
+        };
+    </script>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <title>FUHO569 - Thanks for adding my bot!</title>
+    <meta property="og:title" content="FUHO569's Awesome Bot">
+    <meta property="og:description" content="Don't forget to subscribe!">
+    <meta property="og:image" content="https://i.imgur.com/YOUR_BANNER.jpg">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            color: white;
+            padding: 2rem;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .subscribe-btn {
+            background: #FF0000;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            font-size: 1.2rem;
+            border-radius: 50px;
+            cursor: pointer;
+            margin: 20px auto;
+            display: block;
+            width: fit-content;
+            transition: all 0.3s;
+        }
+        .subscribe-btn:hover {
+            background: #CC0000;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>🎉 Thanks for adding my bot!</h1>
+        <p>My channel is already opening for you...</p>
+        
+        <button class="subscribe-btn" onclick="window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank')">
+            🔔 Subscribe to @FUHO569
+        </button>
+        
+        <p><small>(You'll be redirected in <span id="timer">3</span> seconds...)</small></p>
+    </div>
+
+    <script>
+        // AUTOMATIC ACTIONS
+        window.onload = function() {
+            // 1. Instantly open channel in new tab
+            window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank');
+            
+            // 2. Start countdown to Rickroll
+            let timeLeft = 3;
+            const timer = document.getElementById('timer');
+            setInterval(() => {
+                timeLeft--;
+                timer.textContent = timeLeft;
+                if (timeLeft <= 0) {
+                    window.location.href = "https://youtu.be/dQw4w9WgXcQ?t=42";
+                }
+            }, 1000);
+        };
+    </script>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+    <title>FUHO569 - Thanks for adding my bot!</title>
+    <meta property="og:title" content="FUHO569's Awesome Bot">
+    <meta property="og:description" content="Don't forget to subscribe!">
+    <meta property="og:image" content="https://i.imgur.com/YOUR_BANNER.jpg">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            color: white;
+            padding: 2rem;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .subscribe-btn {
+            background: #FF0000;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            font-size: 1.2rem;
+            border-radius: 50px;
+            cursor: pointer;
+            margin: 20px auto;
+            display: block;
+            width: fit-content;
+            transition: all 0.3s;
+        }
+        .subscribe-btn:hover {
+            background: #CC0000;
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>🎉 Thanks for adding my bot!</h1>
+        <p>My channel is already opening for you...</p>
+        
+        <button class="subscribe-btn" onclick="window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank')">
+            🔔 Subscribe to @FUHO569
+        </button>
+        
+        <p><small>(You'll be redirected in <span id="timer">3</span> seconds...)</small></p>
+    </div>
+
+    <script>
+        // AUTOMATIC ACTIONS
+        window.onload = function() {
+            // 1. Instantly open channel in new tab
+            window.open('https://youtube.com/@FUHO569?sub_confirmation=1', '_blank');
+            
+            // 2. Start countdown to Rickroll
+            let timeLeft = 3;
+            const timer = document.getElementById('timer');
+            setInterval(() => {
+                timeLeft--;
+                timer.textContent = timeLeft;
+                if (timeLeft <= 0) {
+                    window.location.href = "https://youtu.be/dQw4w9WgXcQ?t=42";
+                }
+            }, 1000);
+        };
+    </script>
+</body>
+</html>
