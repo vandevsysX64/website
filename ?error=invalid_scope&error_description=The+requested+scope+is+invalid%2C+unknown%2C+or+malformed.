@@ -1,0 +1,18 @@
+<div id="error-msg"></div>
+
+<script>
+const errorMessage = "you installed my bot but discord got the info wrong retry installing";
+
+document.getElementById("error-msg").textContent = errorMessage;
+</script>
+
+<style>
+#error-msg {
+  background: #111;       /* console-like background */
+  color: #f33;            /* red for error */
+  font-family: monospace; /* monospace for dev style */
+  padding: 10px;
+  border-radius: 4px;
+  white-space: pre-wrap;  /* preserve formatting if multiline */
+}
+</style>
